@@ -1,9 +1,10 @@
 ---
 name: 실습(Task)
 about: 책 실습 단위를 관리하기 위한 이슈 템플릿
-title: "실습: "
-labels: ["task"]
-assignees: ""
+title: 'task: '
+labels: ''
+assignees: y-jh107
+
 ---
 
 ## 실습 내용

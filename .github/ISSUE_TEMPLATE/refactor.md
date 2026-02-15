@@ -1,9 +1,10 @@
 ---
 name: 개선/리팩터링(Refactor)
 about: 기존 코드나 설정을 개선하기 위한 이슈 템플릿
-title: "개선: "
-labels: ["refactor"]
-assignees: ""
+title: 'refactor: '
+labels: ''
+assignees: y-jh107
+
 ---
 
 ## 개선 대상
