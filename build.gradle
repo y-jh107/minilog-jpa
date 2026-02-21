@@ -50,3 +50,11 @@ tasks.named('test') {
         jvmArgs '-XX:+EnableDynamicAgentLoading'
     }
 }
+
+spotless {
+    java {
+        googleJavaFormat('1.22.0').reflowLongStrings()
+    }
+}
+
+build.dependsOn 'spotlessApply'
